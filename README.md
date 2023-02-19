@@ -11,3 +11,4 @@ Watch tutorial on Youtube.
 1. Open index.html in your browser
 2. Second step to practice pushing new branches and merging
 3. 3rd step added at my-better-branch
+4. 4th step added at my-better-branch
