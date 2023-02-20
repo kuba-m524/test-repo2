@@ -13,3 +13,4 @@ Watch tutorial on Youtube.
 3. 3rd step added at my-better-branch
 4. 4th step added at my-better-branch
 5. This 5th step should be commited not on master
+6. 6h step another mistake
